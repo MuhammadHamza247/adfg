@@ -1,0 +1,13 @@
+D:\c#\Classfundamental\bin\Debug\netcoreapp3.1\Classfundamental.exe
+D:\c#\Classfundamental\bin\Debug\netcoreapp3.1\Classfundamental.deps.json
+D:\c#\Classfundamental\bin\Debug\netcoreapp3.1\Classfundamental.runtimeconfig.json
+D:\c#\Classfundamental\bin\Debug\netcoreapp3.1\Classfundamental.runtimeconfig.dev.json
+D:\c#\Classfundamental\bin\Debug\netcoreapp3.1\Classfundamental.dll
+D:\c#\Classfundamental\bin\Debug\netcoreapp3.1\Classfundamental.pdb
+D:\c#\Classfundamental\obj\Debug\netcoreapp3.1\Classfundamental.csprojAssemblyReference.cache
+D:\c#\Classfundamental\obj\Debug\netcoreapp3.1\Classfundamental.AssemblyInfoInputs.cache
+D:\c#\Classfundamental\obj\Debug\netcoreapp3.1\Classfundamental.AssemblyInfo.cs
+D:\c#\Classfundamental\obj\Debug\netcoreapp3.1\Classfundamental.csproj.CoreCompileInputs.cache
+D:\c#\Classfundamental\obj\Debug\netcoreapp3.1\Classfundamental.dll
+D:\c#\Classfundamental\obj\Debug\netcoreapp3.1\Classfundamental.pdb
+D:\c#\Classfundamental\obj\Debug\netcoreapp3.1\Classfundamental.genruntimeconfig.cache
